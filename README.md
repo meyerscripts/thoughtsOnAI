@@ -1,1 +1,2 @@
 # thoughtsOnAI
+adding some notes
